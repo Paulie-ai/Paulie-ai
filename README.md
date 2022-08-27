@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Paulie
-phd in ai
+a phd in ai
 
 <!---
 Paulie-ai/Paulie-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
